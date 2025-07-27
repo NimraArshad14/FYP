@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132065950936",
+    "project_id": "aiclasshubdb",
+    "storage_bucket": "aiclasshubdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132065950936:android:f038cd0b8061647d4b6bad",
+        "android_client_info": {
+          "package_name": "com.mbg5.classroommanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132065950936-dmj8nf7qpi8t22r32d8p1ntogi1kt0sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTym_8vx0YnxO-AeOR7ULSTqr_98v1hyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132065950936-dmj8nf7qpi8t22r32d8p1ntogi1kt0sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
